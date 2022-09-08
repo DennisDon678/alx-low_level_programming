@@ -2,6 +2,7 @@
 /**
 *main - prints a given string
 *
+*Return: Always 0 (Success)
 */
 int main(void)
 {
