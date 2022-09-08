@@ -1,7 +1,5 @@
 
 #include <stdio.h>
-
-
    /**
     *Main -Entry point 
     *
@@ -11,5 +9,5 @@ int main(void)
 {
 char txt[60] = "\"Programming is like building a multilingual puzzle";
 puts(txt);
-  return (0);
+return (0);
 }
