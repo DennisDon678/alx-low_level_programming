@@ -1,0 +1,13 @@
+#include <stdio.h>
+/**
+ *
+ *main - prints a given string
+ *
+ */
+
+int main(void)
+{
+  char txt[60] ="with proper grammar, but the outcome is a piece of art,\n";
+  printf(txt);
+  return (0);
+}
