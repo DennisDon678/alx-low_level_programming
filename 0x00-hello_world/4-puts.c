@@ -1,9 +1,9 @@
 #include <stdio.h>
-   /**
-    *Main -Entry point
-    *
-    *Return: Always 0 (success)
-    */
+/**
+*Main -Entry point
+*
+*Return: Always 0 (success)
+*/
 int main(void)
 {
 char txt[60] = "\"Programming is like building a multilingual puzzle";
