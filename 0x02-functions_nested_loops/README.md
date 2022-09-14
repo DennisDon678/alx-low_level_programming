@@ -1,1 +1,1 @@
-<h2>More on loops and Functions</h2>
+<h1>More on loops and Functions</h1>
